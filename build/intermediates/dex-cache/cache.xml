@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\workspace\OpenGLTest1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\workspace\OpenGLTest1\app\build\intermediates\pre-dexed\debug\classes-6b18feab43cc7de7b3fc2c76147c97e0454f38e7.jar" />
+    </item>
+    <item
+        jar="D:\workspace\OpenGLTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\workspace\OpenGLTest\app\build\intermediates\pre-dexed\debug\classes-76c1a90c36218d95d871dfe53b2835bdfa74da53.jar" />
+    </item>
+    <item
+        jar="D:\workspace\OpenGLTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\workspace\OpenGLTest\app\build\intermediates\pre-dexed\debug\classes-b1c59305510149425330da254cc23e8dfcc1fbec.jar" />
+    </item>
+    <item
+        jar="D:\workspace\OpenGLTest1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\workspace\OpenGLTest1\app\build\intermediates\pre-dexed\debug\classes-153e7315efb3453ee1cc849f843668b72c2ce16f.jar" />
+    </item>
+    <item
+        jar="D:\workspace\OpenGLTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\workspace\OpenGLTest\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-866c3c9c918249c088d5ad31507ce75ed726251b.jar" />
+    </item>
+    <item
+        jar="D:\workspace\OpenGLTest1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\workspace\OpenGLTest1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-c4a3c6ae989185378ebbcb67de94ac043646d4fc.jar" />
+    </item>
+    <item
+        jar="D:\android-sdks\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\workspace\OpenGLTest1\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-d8cdc29c41c12353c179162854bbd99479569e21.jar" />
+    </item>
+
+</items>
